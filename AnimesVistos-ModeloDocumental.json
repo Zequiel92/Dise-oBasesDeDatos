@@ -1,0 +1,28 @@
+{
+	"animes": [
+		{
+			"nombre_id":"Naruto",
+			"cantidad_capitulos":"220",
+			"anio_emision":"2002-10-3",
+			"genero":"Artes Marciales",
+			"idioma_disponible":"Japonés/Latino",
+			"foto":"img/Naruto-photo01.jpg"
+		},
+		{
+			"nombre_id":"Jujutsu Kaisen",
+			"cantidad_capitulos":"47",
+			"anio_emision":"2020-10-3",
+			"genero":"Acción",
+			"idioma_disponible":"Japonés/Latino",
+			"foto":"img/Jujutsu-Kaisen-01.jpg"
+		},
+		{
+			"nombre_id":"One Punch Man",
+			"cantidad_capitulos":"25",
+			"anio_emision":"2015-11-5",
+			"genero":"Artes Marciales",
+			"idioma_disponible":"Japonés/Latino",
+			"foto":"img/OnePunchMan-01.jpg"
+		}
+	]
+}
